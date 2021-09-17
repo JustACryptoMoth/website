@@ -59,6 +59,7 @@ const variables = {
         twitter: 'Twitter',
         discord: 'Discord',
         github: 'Github',
+        poweredByAkash: 'Powered By Akash',
 
         roadmap: 'Milestones',
         roadmap_year1: '2017',
